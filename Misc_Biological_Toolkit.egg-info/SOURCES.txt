@@ -1,0 +1,12 @@
+setup.py
+Misc_Biological_Toolkit.egg-info/PKG-INFO
+Misc_Biological_Toolkit.egg-info/SOURCES.txt
+Misc_Biological_Toolkit.egg-info/dependency_links.txt
+Misc_Biological_Toolkit.egg-info/entry_points.txt
+Misc_Biological_Toolkit.egg-info/requires.txt
+Misc_Biological_Toolkit.egg-info/top_level.txt
+bin/Accession_Number.py
+bin/Fasta_ORF_Analysis.py
+bin/Fasta_Statistics.py
+bin/__init__.py
+bin/cli.py

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Misc-Biological-Toolkit
+Version: 1.0
+Summary: A basic command line toolkit incorporating helpful scripts I accumulated as a grad student, wrapped together in a package
+Home-page: https://github.com/yourusername/my_toolkit
+Author: Cory Joyner
+Author-email: coryjoyner526@gmail.com
